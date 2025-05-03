@@ -1,0 +1,10 @@
+generations:
+  - name: "First Generation"
+    start_year: 2013
+    end_year: 2015
+    description: "The first generation Acura ILX was based on the Honda Civic platform but featured more upscale styling and amenities. It launched with multiple powertrain options including a 2.0L four-cylinder, a sportier 2.4L four-cylinder, and a hybrid variant, marking Acura's first hybrid offering."
+
+  - name: "First Generation (Facelift)"
+    start_year: 2016
+    end_year: 2022
+    description: "The significantly refreshed ILX received a major styling update incorporating Acura's Jewel Eye LED headlights and a more refined design language. The powertrain was simplified to a single 2.4L four-cylinder engine paired with an 8-speed dual-clutch transmission. This facelift improved interior quality and added more technology and safety features to keep the model competitive in the entry-luxury segment."
