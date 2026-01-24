@@ -4,5 +4,13 @@ references:
 generations:
   - name: "First Generation"
     start_year: 2013
+    end_year: 2015
+    description: "The Acura ILX was launched for the North American market based on the ninth-generation Honda Civic platform. It was offered with multiple powertrain options including a 2.0L four-cylinder with 5-speed automatic, a 2.4L four-cylinder with 6-speed manual transmission, and a 1.5L hybrid with CVT (Acura's first hybrid variant)."
+  - name: "First Generation (2016 Facelift)"
+    start_year: 2016
+    end_year: 2018
+    description: "The 2016 facelift introduced the 'Jewel Eye' LED headlights, redesigned interior, and an 8-speed dual-clutch transmission option. The manual transmission was discontinued after this refresh."
+  - name: "First Generation (2019 Facelift)"
+    start_year: 2019
     end_year: 2022
-    description: "The Acura ILX was produced as a single generation from 2013 to 2022 for the North American market, based on the ninth-generation Honda Civic platform. It launched with multiple powertrain options including a 2.0L four-cylinder with 5-speed automatic, a 2.4L four-cylinder with 6-speed manual, and a 1.5L hybrid with CVT. The hybrid variant was Acura's first. A 2016 facelift introduced the 'Jewel Eye' LED headlights and redesigned interior with an 8-speed dual-clutch transmission, discontinuing the manual transmission. A second 2019 facelift added the 'Diamond Pentagon' grille, revised front/rear styling, and an updated infotainment system. The ILX was discontinued in February 2022, replaced by the Acura Integra."
+    description: "The 2019 facelift added the 'Diamond Pentagon' grille design, revised front and rear styling, and an updated infotainment system. The ILX was discontinued in February 2022, replaced by the Acura Integra."
