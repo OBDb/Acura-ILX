@@ -4,15 +4,5 @@ references:
 generations:
   - name: "First Generation"
     start_year: 2013
-    end_year: 2015
-    description: "The first generation Acura ILX was based on the Honda Civic platform but featured more upscale styling and amenities. It launched with multiple powertrain options including a 2.0L four-cylinder, a sportier 2.4L four-cylinder, and a hybrid variant, marking Acura's first hybrid offering. Production began in April 2012 with sales starting May 2012 for the 2013 model year."
-
-  - name: "First Generation (2016 Facelift)"
-    start_year: 2016
-    end_year: 2018
-    description: "The refreshed 2016 ILX was unveiled in November 2014 at the Los Angeles Auto Show and went on sale in February 2015. It became exclusively powered by a 2.4-liter four-cylinder direct-injection DOHC i-VTEC gasoline engine mated to an 8-speed dual-clutch transmission. The manual transmission option was discontinued with this facelift. This generation featured Jewel Eye LED headlights and a more refined design language with improved interior quality and technology."
-
-  - name: "First Generation (2019 Facelift)"
-    start_year: 2019
     end_year: 2022
-    description: "A second facelift was revealed in September 2018 for the 2019 model year, incorporating Acura's 'Diamond Pentagon' grille design. The front bumper, headlights, and rear taillights were revised, with the license plate moved from the trunk to the rear bumper. The interior featured revised seats with optional red leather (A-Spec only) and an updated infotainment system that was 30% faster than the previous generation."
+    description: "The Acura ILX was produced as a single generation from 2013 to 2022 for the North American market, based on the ninth-generation Honda Civic platform. It launched with multiple powertrain options including a 2.0L four-cylinder with 5-speed automatic, a 2.4L four-cylinder with 6-speed manual, and a 1.5L hybrid with CVT. The hybrid variant was Acura's first. A 2016 facelift introduced the 'Jewel Eye' LED headlights and redesigned interior with an 8-speed dual-clutch transmission, discontinuing the manual transmission. A second 2019 facelift added the 'Diamond Pentagon' grille, revised front/rear styling, and an updated infotainment system. The ILX was discontinued in February 2022, replaced by the Acura Integra."
